@@ -1,6 +1,6 @@
 """
 File Organizer - Automatically sort files into folders by type
-Author: [Your Name]
+Author: Aryana Chaturvedi
 Course: Python Essentials
 """
 
